@@ -1,0 +1,103 @@
+.maindiv {
+    background-color: #74A5C0;
+    display: flex;
+
+    color: white;
+}
+
+.logo {
+    width: 80px;
+    height: auto;
+    margin: 5px;
+    margin-right: 10px;
+}
+
+.nameofuni {
+    margin-right: 200px;
+    margin-top: 5px;
+}
+
+.nameofuni p {
+    font-size: 20px;
+}
+
+.nameofuni .p2 {
+    margin-top: -20px;
+}
+
+.pas p {
+    font-size: 30px;
+}
+
+.hamburg {
+    margin-left: 330px;
+    margin-top: 40px;
+}
+
+
+
+.bm-burger-button {
+    position: fixed;
+    width: 36px;
+    height: 30px;
+    left: 36px;
+    top: 36px;
+}
+
+.bm-menu-wrap {
+    margin-left: -200px;
+    height: 1px;
+}
+
+.bm-menu {
+    background: #74A5C0;
+    border: solid #ffff;
+    padding: 2px 3px 0;
+    font-size: 1.15em;
+
+}
+
+.bm-menu a {
+    color: #74A5C0;
+    text-decoration: none;
+
+}
+
+#stuinfo {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#dorminfo {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#incident {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.popup-container {
+    margin-left: 40%;
+    margin-top: -120px;
+
+    width: 200px;
+    padding: 30px;
+    padding-left: 30px;
+}
+
+.popup-container p {
+    color: rgb(91, 226, 91);
+    font-weight: bold;
+}
+
+.popup-container button {
+    margin-left: 60px;
+    color: white;
+    background-color: #74A5C0;
+    border: solid #74A5C0;
+}
